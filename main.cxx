@@ -3,8 +3,8 @@
 
 int main()
 {
-	person a();
-	person->say("miga pakha umayang!");
+	person a("MIGA");
+	person.say("miga pakha umayang!");
 
 
 }

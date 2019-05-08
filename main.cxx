@@ -7,6 +7,4 @@ int main()
 {
 	person a("MIGA");
 	person.say("miga pakha umayang!");
-
-
 }

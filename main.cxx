@@ -3,9 +3,10 @@
 #include <iostream>
 
 
-int main(){
-	person a();
-	person->say("miga pakha umayang!");
+int main()
+{
+	person a("MIGA");
+	person.say("miga pakha umayang!");
 
 
 }

@@ -1,0 +1,12 @@
+main.cxx
+
+A 修改 person a() 为 person a("miga");
+修改 person-> 为 person.
+
+
+bs1/bs1.h
+
+B 修改 say 为 says
+添加 using std::string;
+添加 using std::cout;
+C 添加 using std::endl;

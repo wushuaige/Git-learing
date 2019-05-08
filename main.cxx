@@ -1,12 +1,10 @@
 #include "bs1/bs1.h"
-using std::string
-using std::cout;
+#include <string>
+#include <iostream>
 
 
-
-int main(){
-	person a();
-	person->says("miga pakha umayang!");
-
-
+int main()
+{
+	person a("MIGA");
+	person.say("miga pakha umayang!");
 }

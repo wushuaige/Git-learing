@@ -13,6 +13,7 @@ B 修改 say 为 says
 添加 using std::string;
 添加 using std::cout;
 
+B进行了修改，再一次提交
 
 C 添加 using std::endl;
 

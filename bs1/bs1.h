@@ -1,5 +1,9 @@
 #include <iostream>
 #include <string>
+using std::string;
+using std::cout;
+
+
 
 class person{
 private:
@@ -11,7 +15,7 @@ public:
 		this->name = name;
 
 	}
-	void say(string a){
+	void says(string a){
 		cout<<name<<"say:"<<a<<endl;
 	
 	}
